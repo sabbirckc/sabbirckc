@@ -87,116 +87,56 @@
 <!-- =========================
      TECH STACK
 ========================= -->
-
 <h2>Tech Stack</h2>
 
+<hr>
 
 <h4>Languages</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    width="45"
-    height="45"
-    alt="JavaScript"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    width="45"
-    height="45"
-    alt="TypeScript"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    width="45"
-    height="45"
-    alt="C++"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    width="45"
-    height="45"
-    alt="HTML5"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    width="45"
-    height="45"
-    alt="CSS3"
-  />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,graphql" height="50" />
 </p>
 
 
 <h4>Frontend</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    width="45"
-    height="45"
-    alt="React"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-    width="45"
-    height="45"
-    alt="Tailwind CSS"
-  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" height="50" />
 </p>
 
 
 <h4>Backend</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    width="45"
-    height="45"
-    alt="Node.js"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
 </p>
 
 
-<h4>Database</h4>
+<h4>Database & ORM</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    width="45"
-    height="45"
-    alt="MongoDB"
-  />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" height="50" />
+</p>
+
+
+<h4>Deployment</h4>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="50" />
 </p>
 
 
 <h4>Tools</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-    width="45"
-    height="45"
-    alt="Git"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" height="50" />
+</p>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    width="45"
-    height="45"
-    alt="GitHub"
-  />
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-    width="45"
-    height="45"
-    alt="VS Code"
-  />
+<h4>Design</h4>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" height="50" />
 </p>
 
 
