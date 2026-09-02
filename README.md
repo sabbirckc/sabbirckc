@@ -226,53 +226,41 @@ More projects and experiments are available on my GitHub profile.
 
 <h2>GitHub Analytics</h2>
 
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sabbirckc&show_icons=true&locale=en"
-    alt="Sabbir's GitHub Stats"
-  />
-
-</p>
+<hr>
 
 <p align="center">
 
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc"
-    alt="Sabbir's GitHub Streak"
+    alt="Sabbir GitHub Streak"
   />
 
 </p>
+
+<br>
 
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirckc&show_icons=true&locale=en&layout=compact"
-    alt="Sabbir's Top Languages"
+    src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge"
+    alt="GitHub Followers"
   />
-
-</p>
-
-
----
-
-<!-- =========================
-     GITHUB ACTIVITY
-========================= -->
-
-<h2>GitHub Activity</h2>
-
-<p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirckc&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge"
+    alt="GitHub Stars"
+  />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge"
+    alt="Profile Views"
   />
 
 </p>
 
 
----
+<br><br>
+
 
 <!-- =========================
      CONNECT
@@ -280,62 +268,56 @@ More projects and experiments are available on my GitHub profile.
 
 <h2>Connect</h2>
 
-<p>
-
-<a href="https://github.com/sabbirckc">
-  <img
-    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"
-  />
-</a>
-
-<a href="https://linkedin.com/in/sabbir-hossainnubian">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"
-  />
-</a>
-
-<a href="https://fb.com/sabbirhossain981">
-  <img
-    src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  />
-</a>
-
-<a href="https://www.youtube.com/c/@sabbirvlog12">
-  <img
-    src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-  />
-</a>
-
-<a href="https://www.topcoder.com/members/2252">
-  <img
-    src="https://img.shields.io/badge/TopCoder-Profile-29A8E0?style=for-the-badge"
-  />
-</a>
-
-</p>
-
-
----
-
-<!-- =========================
-     FOOTER
-========================= -->
+<hr>
 
 <p align="center">
 
-  <br>
+  <a href="https://github.com/sabbirckc">
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-  <strong>Open to Learning & Collaboration 🤝</strong>
+  <a href="https://linkedin.com/in/sabbir-hossainnubian">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-  <br><br>
+  <a href="https://twitter.com/">
+    <img
+      src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
 
-  Learn • Build • Improve • Repeat
-
-  <br><br>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=sabbirckc&label=Profile%20Views&style=flat-square"
-    alt="Profile Views"
-  />
+  <a href="mailto:sabbirhossainnubian@gmail.com">
+    <img
+      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
 </p>
+
+
+<br><br><br>
+
+
+<!-- =========================
+     BOTTOM WAVE
+========================= -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6c7a80,100:9aa5a9&height=100&section=footer"
+  width="100%"
+  alt="footer"
+/>
+
+</div>
+If you want the analytics card exactly like your screenshot
+The important part is this:
