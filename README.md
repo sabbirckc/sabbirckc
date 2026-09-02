@@ -2,16 +2,7 @@
      BANNER
 ========================= -->
 
-<h1 align="center" style="color:#071A2B;">
-  Sabbir Hossain
-</h1>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer"
-    alt="Sabbir Hossain Developer"
-  />
-</p><p align="center">
   <img
     src="https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png?raw=true"
     width="100%"
@@ -24,22 +15,14 @@
      ANIMATED NAME
 ========================= -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=42&duration=180&pause=1500&color=071A2B&center=true&vCenter=true&width=700&height=70&lines=Sabbir+Hossain"
-    alt="Sabbir Hossain"
-  />
-</p>
-
-
-<!-- =========================
-     ANIMATED ROLE
-========================= -->
+<h1 align="center" style="color:#071A2B;">
+  Sabbir Hossain
+</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+%7C+React+%7C+TypeScript"
-    alt="Developer Role"
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer"
+    alt="Sabbir Hossain Developer"
   />
 </p>
 
@@ -66,7 +49,6 @@
     alt="Bottom Wave"
   />
 </p>
----
 
 <!-- =========================
      ABOUT
