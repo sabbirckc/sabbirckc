@@ -1,6 +1,4 @@
-<!-- =========================
-     BANNER
-========================= -->
+<!-- BANNER -->
 
 <p align="center">
   <img
@@ -11,9 +9,7 @@
 </p>
 
 
-<!-- =========================
-     ANIMATED NAME
-========================= -->
+<!-- ANIMATED NAME -->
 
 <h1 align="center" style="color:#071A2B;">
   Sabbir Hossain
@@ -27,9 +23,7 @@
 </p>
 
 
-<!-- =========================
-     TAGLINE
-========================= -->
+<!--  TAGLINE -->
 
 <p align="center">
   <strong style="color:#071A2B;">
@@ -38,21 +32,17 @@
 </p>
 
 
-<!-- =========================
-     WAVE
-========================= -->
+<!--  WAVE -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color:#071A2B"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=145C3B"
     width="100%"
     alt="Bottom Wave"
   />
 </p>
 
-<!-- =========================
-     ABOUT
-========================= -->
+<!--  ABOUT -->
 
 <h2>About</h2>
 
@@ -83,9 +73,7 @@
 
 ---
 
-<!-- =========================
-     TECH STACK
-========================= -->
+<!-- TECH STACK -->
 <h2>Tech Stack</h2>
 
 <hr>
@@ -150,13 +138,11 @@
 
 ---
 
-<!-- =========================
-     PROJECTS
-========================= -->
+<!-- PROJECTS -->
 
 <h2>Featured Projects</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
 
@@ -195,15 +181,14 @@ More projects and experiments are available on my GitHub profile.
 
 ---
 
-<!-- =========================
-     GITHUB ANALYTICS
-========================= -->
+<!-- GITHUB ANALYTICS -->
 
 <h2>GitHub Analytics</h2>
 
 <hr>
 
-<p align="center">
+<div align="center">
+     <p align="center">
 
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc"
@@ -233,13 +218,12 @@ More projects and experiments are available on my GitHub profile.
 
 </p>
 
+</div>
 
 <br><br>
 
 
-<!-- =========================
-     CONNECT
-========================= -->
+<!-- CONNECT -->
 
 <h2>Connect</h2>
 
@@ -281,9 +265,7 @@ More projects and experiments are available on my GitHub profile.
 <br><br><br>
 
 
-<!-- =========================
-     BOTTOM WAVE
-========================= -->
+<!-- BOTTOM WAVE -->
 
 <div align="center">
 
