@@ -19,7 +19,7 @@
   Sabbir Hossain
 </h1>
 
-<p align="center">
+<p align="center" color:#071A2B>
   <img
     src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer"
     alt="Sabbir Hossain Developer"
