@@ -319,5 +319,11 @@ More projects and experiments are available on my GitHub profile.
 />
 
 </div>
-If you want the analytics card exactly like your screenshot
-The important part is this:
+<p align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc"
+    alt="Sabbir GitHub Streak"
+  />
+
+</p>
