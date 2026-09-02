@@ -1,78 +1,62 @@
-<!-- TOP BANNER -->
+<!-- =========================
+     BANNER
+========================= -->
 
 <p align="center">
   <img
     src="https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png?raw=true"
     width="100%"
+    alt="Sabbir Hossain Banner"
+  />
+</p>
+
+
+<!-- =========================
+     ANIMATED NAME
+========================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=42&duration=180&pause=1500&color=071A2B&center=true&vCenter=true&width=700&height=70&lines=Sabbir+Hossain"
     alt="Sabbir Hossain"
   />
 </p>
 
-<!-- ANIMATED NAME -->
+
+<!-- =========================
+     ANIMATED ROLE
+========================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=45&duration=2500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&height=80&lines=Sabbir+Hossain"
-    alt="Sabbir Hossain"
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+%7C+React+%7C+TypeScript"
+    alt="Developer Role"
   />
 </p>
 
-<!-- ANIMATED ROLE -->
+
+<!-- =========================
+     TAGLINE
+========================= -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer+in+the+Making;JavaScript+%7C+React+%7C+TypeScript"
-    alt="Developer title"
-  />
+  <strong style="color:#071A2B;">
+    Turning ideas into clean, scalable web applications
+  </strong>
 </p>
 
-<!-- WAVE -->
+
+<!-- =========================
+     WAVE
+========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9AA5A9"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=145C3B"
     width="100%"
     alt="Bottom Wave"
   />
 </p>
-<!-- =========================
-     INTRO
-========================= -->
-
-<h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-
-<h3 align="center">
-  Frontend Developer in the Making
-</h3>
-
-<p align="center">
-  JavaScript • React • TypeScript • Tailwind CSS
-</p>
-
-<p align="center">
-  <a href="https://github.com/sabbirckc">
-    <img src="https://img.shields.io/github/followers/sabbirckc?label=Followers&style=flat-square" />
-  </a>
-
-  <a href="https://github.com/sabbirckc?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sabbirckc?label=Stars&style=flat-square" />
-  </a>
-</p>
-
-
-<!-- =========================
-     OPEN TO COLLABORATION
-========================= -->
-
-<p align="center">
-  <strong>🤝 Open to Collaboration</strong>
-</p>
-
-<p align="center">
-  Building • Learning • Improving
-</p>
-
-
 ---
 
 <!-- =========================
