@@ -1,15 +1,46 @@
 <!-- =========================
-     BANNER
+     TOP BANNER
 ========================= -->
 
 <p align="center">
   <img
     src="https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png?raw=true"
     width="100%"
+    alt="Sabbir Hossain Banner"
+  />
+</p>
+
+
+<!-- =========================
+     ANIMATED INTRO
+========================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=38&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=600&height=70&lines=Sabbir+Hossain"
     alt="Sabbir Hossain"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=20&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+in+the+Making;JavaScript+%7C+React+%7C+TypeScript;Building+Modern+Web+Experiences"
+    alt="Frontend Developer"
+  />
+</p>
+
+
+<!-- =========================
+     WAVE
+========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20&fontColor=4DA3FF"
+    width="100%"
+    alt="Wavy Section"
+  />
+</p>
 
 <!-- =========================
      INTRO
