@@ -1,30 +1,147 @@
-![image alt](https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">I'm learning JavaScript and React.</h3>
+# 👋 Hi, I'm Sabbir Hossain
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Frontend Developer in the Making 🚀
 
-- 🌱 I’m currently learning **JavaScript , React**
+JavaScript • React • TypeScript • Tailwind CSS
 
-- 👨‍💻 All of my projects are available at [https://sabbirckc.github.io/B14-A01-DevConf-2026/](https://sabbirckc.github.io/B14-A01-DevConf-2026/)
+</div>
 
-- 💬 Ask me about **react**
+---
 
-- 📫 How to reach me **sabbirhossainnubian@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabbir-hossainnubian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-hossainnubian" height="30" width="40" /></a>
-<a href="https://fb.com/sabbirhossain981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbirhossain981" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sabbirvlog12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sabbirvlog12" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/2252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="2252" height="30" width="40" /></a>
+<img src="https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png?raw=true" width="100%" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+> I'm a passionate developer currently focused on learning modern web development and building practical projects.
+
+- 🌱 Currently learning **JavaScript, React and TypeScript**
+- 💻 Interested in **Frontend Development**
+- 🚀 Building projects to improve my development skills
+- 📚 Learning modern web development step by step
+- 🎯 Goal: Become a professional full-stack developer
+- 💬 Ask me about **JavaScript and React**
+- 📫 Email: **sabbirhossainnubian@gmail.com**
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Frontend
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirckc&show_icons=true&locale=en&layout=compact" alt="sabbirckc" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc&" alt="sabbirckc" /></p>
+## Tools
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## DEVCONF 2026
+
+A developer conference landing page built while practicing modern frontend development.
+
+**Technologies:**
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+🔗 **Live Website**
+
+https://sabbirckc.github.io/B14-A01-DevConf-2026/
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sabbirckc&show_icons=true&locale=en" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirckc&show_icons=true&locale=en&layout=compact" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="left">
+
+<a href="https://linkedin.com/in/sabbir-hossainnubian" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+</a>
+
+<a href="https://fb.com/sabbirhossain981" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" />
+</a>
+
+<a href="https://www.youtube.com/c/@sabbirvlog12" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" />
+</a>
+
+<a href="https://www.topcoder.com/members/2252" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="40" height="40" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Open to Learning & Collaboration
+
+**Learn → Build → Improve → Repeat**
+
+</div>
