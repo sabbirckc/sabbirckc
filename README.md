@@ -162,9 +162,6 @@ HTML • CSS • JavaScript • Tailwind CSS
   </a>
 </p>
 
-    </td>
-
-    <td width="50%">
 
 ### More Projects
 
@@ -176,7 +173,6 @@ More projects and experiments are available on my GitHub profile.
   </a>
 </p>
 
-    </td>
   </tr>
 </table>
 
