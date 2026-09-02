@@ -34,13 +34,15 @@
 
 <!--  WAVE -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=145C3B"
-    width="100%"
-    alt="Bottom Wave"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6c7a80,100:9aa5a9&height=100&section=footer"
+  width="100%"
+  alt="footer"
+/>
+
+</div>
 
 <!--  ABOUT -->
 
