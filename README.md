@@ -142,35 +142,11 @@
 <h4>Currently Learning</h4>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    width="45"
-    height="45"
-    alt="JavaScript"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    width="45"
-    height="45"
-    alt="React"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    width="45"
-    height="45"
-    alt="TypeScript"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-    width="45"
-    height="45"
-    alt="Tailwind CSS"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 </p>
-
 
 ---
 
