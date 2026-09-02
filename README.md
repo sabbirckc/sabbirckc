@@ -319,11 +319,3 @@ More projects and experiments are available on my GitHub profile.
 />
 
 </div>
-<p align="center">
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc"
-    alt="Sabbir GitHub Streak"
-  />
-
-</p>
