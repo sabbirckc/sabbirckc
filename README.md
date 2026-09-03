@@ -29,9 +29,7 @@
 
 <!-- ABOUT SECTION WITH ICONS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" height="30" />
-  About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" height="30" />
+  ⚡ About Me ⚡
 </h2>
 
 <table align="center" width="100%">
@@ -63,6 +61,15 @@
 <p align="center">
   <strong>🎯 Philosophy:</strong>
   <em>Learn → Build → Improve → Repeat</em>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -162,15 +169,6 @@
     </td>
   </tr>
 </table>
-
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
 
 <!-- GITHUB STATS WITH STREAK -->
 <h2 align="center">
