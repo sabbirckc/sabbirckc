@@ -10,7 +10,7 @@
 <!-- ANIMATED NAME WITH GLOW EFFECT -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sabbir+Hossain;Full+Stack+Developer;Creative+Problem+Solver;Code+%26+Coffee+Lover"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sabbir+Hossain;Full+Stack+Developer;Problem+Solver;Code+%26+Coffee+Lover"
     alt="Sabbir Hossain"
   />
 </h1>
