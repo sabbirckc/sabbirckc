@@ -113,13 +113,9 @@
 
 <h3 align="center">📖 Currently Learning</h3>
 <p align="center">
-  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
-  <!-- TypeScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
-  <!-- Tailwind CSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
-  <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React" />
 </p>
 
@@ -167,7 +163,7 @@
   </tr>
 </table>
 
-<!-- SNAKE ANIMATION - ONLY HERE AFTER FEATURED PROJECTS -->
+<!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
@@ -189,21 +185,22 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirckc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirckc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%" />
-</div>
 
 <br />
 
-<!-- FIXED BADGES WITH WORKING ICONS -->
+<!-- FIXED BADGES - ALL WORKING NOW -->
 <p align="center">
+  <!-- GitHub Followers -->
   <a href="https://github.com/sabbirckc">
-    <img src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github" />
+    <img src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
   </a>
+  
+  <!-- GitHub Stars -->
   <a href="https://github.com/sabbirckc">
-    <img src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge&color=58A6FF&logo=github" />
+    <img src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
   </a>
+  
+  <!-- Profile Views -->
   <a href="https://github.com/sabbirckc">
     <img src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF" />
   </a>
@@ -215,25 +212,32 @@
 
 <!-- CONNECT SECTION WITH FIXED ICONS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" height="30" />
   Let's Connect
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" height="30" />
 </h2>
 
 <p align="center">
-  <a href="https://github.com/sabbirckc">
+  <!-- GitHub -->
+  <a href="https://github.com/sabbirckc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sabbir-hossainnubian">
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sabbir-hossainnubian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/">
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  
+  <!-- Email -->
   <a href="mailto:sabbirhossainnubian@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sabbirckc.github.io/portfolio">
+  
+  <!-- Portfolio -->
+  <a href="https://sabbirckc.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
