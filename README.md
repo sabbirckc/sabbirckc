@@ -11,13 +11,13 @@
 
 <!-- ANIMATED NAME -->
 
-<h1 align="center" style="color:#071A2B;">
+<h1 align="center" style="color:#ffffff;">
   Sabbir Hossain
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=100&pause=1500&color=145C3B&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=100&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer"
     alt="Sabbir Hossain Developer"
   />
 </p>
@@ -26,7 +26,7 @@
 <!--  TAGLINE -->
 
 <p align="center">
-  <strong style="color:#071A2B;">
+  <strong style="color:#ffffff;">
     Turning ideas into clean, scalable web applications
   </strong>
 </p>
@@ -46,19 +46,19 @@
 
 <!--  ABOUT -->
 
-<h2>About</h2>
+<h2 style="color:#ffffff;">About</h2>
 
-<p>
+<p style="color:#ffffff;">
   I'm a passionate web development learner focused on building practical,
   responsive and user-friendly web applications.
 </p>
 
-<p>
+<p style="color:#ffffff;">
   I'm currently focusing on strengthening my JavaScript and React skills
   while exploring modern frontend development.
 </p>
 
-<ul>
+<ul style="color:#ffffff;">
   <li>🌱 Currently learning <strong>JavaScript, React and TypeScript</strong></li>
   <li>💻 Interested in <strong>Frontend Development</strong></li>
   <li>🚀 Building projects to improve my real-world development skills</li>
@@ -67,7 +67,7 @@
   <li>📫 Email: <strong>sabbirhossainnubian@gmail.com</strong></li>
 </ul>
 
-<p>
+<p style="color:#ffffff;">
   <strong>Philosophy:</strong>
   Learn → Build → Improve → Repeat
 </p>
@@ -76,60 +76,60 @@
 ---
 
 <!-- TECH STACK -->
-<h2>Tech Stack</h2>
+<h2 style="color:#ffffff;">Tech Stack</h2>
 
-<hr>
+<hr style="border-color:#ffffff;">
 
-<h4>Languages</h4>
+<h4 style="color:#ffffff;">Languages</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,graphql" height="50" />
 </p>
 
 
-<h4>Frontend</h4>
+<h4 style="color:#ffffff;">Frontend</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" height="50" />
 </p>
 
 
-<h4>Backend</h4>
+<h4 style="color:#ffffff;">Backend</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
 </p>
 
 
-<h4>Database & ORM</h4>
+<h4 style="color:#ffffff;">Database & ORM</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" height="50" />
 </p>
 
 
-<h4>Deployment</h4>
+<h4 style="color:#ffffff;">Deployment</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="50" />
 </p>
 
 
-<h4>Tools</h4>
+<h4 style="color:#ffffff;">Tools</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" height="50" />
 </p>
 
 
-<h4>Design</h4>
+<h4 style="color:#ffffff;">Design</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" height="50" />
 </p>
 
 
-<h4>Currently Learning</h4>
+<h4 style="color:#ffffff;">Currently Learning</h4>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
@@ -142,7 +142,7 @@
 
 <!-- PROJECTS -->
 
-<h2>Featured Projects</h2>
+<h2 style="color:#ffffff;">Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -181,9 +181,9 @@ More projects and experiments are available on my GitHub profile.
 
 <!-- GITHUB ANALYTICS -->
 
-<h2>GitHub Analytics</h2>
+<h2 style="color:#ffffff;">GitHub Analytics</h2>
 
-<hr>
+<hr style="border-color:#ffffff;">
 
 <div align="center">
      <p align="center">
@@ -200,17 +200,17 @@ More projects and experiments are available on my GitHub profile.
 <p align="center">
 
   <img
-    src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge"
+    src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge&color=ffffff"
     alt="GitHub Followers"
   />
 
   <img
-    src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge"
+    src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge&color=ffffff"
     alt="GitHub Stars"
   />
 
   <img
-    src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge&color=ffffff"
     alt="Profile Views"
   />
 
@@ -223,9 +223,9 @@ More projects and experiments are available on my GitHub profile.
 
 <!-- CONNECT -->
 
-<h2>Connect</h2>
+<h2 style="color:#ffffff;">Connect</h2>
 
-<hr>
+<hr style="border-color:#ffffff;">
 
 <p align="center">
 
