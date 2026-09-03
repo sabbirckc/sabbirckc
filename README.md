@@ -7,6 +7,11 @@
   />
 </p>
 
+<!-- SNAKE ANIMATION - TOP -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
 <!-- ANIMATED NAME WITH GLOW EFFECT -->
 <h1 align="center">
   <img 
@@ -20,6 +25,11 @@
   <strong style="font-size: 20px; background: linear-gradient(135deg, #ffffff, #a8b5c0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     ✦ Turning ideas into clean, scalable web applications ✦
   </strong>
+</p>
+
+<!-- SNAKE ANIMATION - MIDDLE 1 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <!-- DECORATIVE DIVIDER -->
@@ -63,6 +73,11 @@
 <p align="center">
   <strong>🎯 Philosophy:</strong>
   <em>Learn → Build → Improve → Repeat</em>
+</p>
+
+<!-- SNAKE ANIMATION - MIDDLE 2 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -113,10 +128,19 @@
 
 <h3 align="center">📖 Currently Learning</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55" />
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
+  <!-- Tailwind CSS - Fixed with correct URL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React" />
+</p>
+
+<!-- SNAKE ANIMATION - MIDDLE 3 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -163,6 +187,11 @@
   </tr>
 </table>
 
+<!-- SNAKE ANIMATION - MIDDLE 4 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
@@ -191,6 +220,11 @@
   <img src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github" />
   <img src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge&color=58A6FF&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF" />
+</p>
+
+<!-- SNAKE ANIMATION - BOTTOM -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -228,6 +262,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
   <br /><br />
 </div>
+
+<!-- SNAKE ANIMATION - VERY BOTTOM -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 <!-- BOTTOM WAVE -->
 <div align="center">
